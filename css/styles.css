@@ -1,0 +1,95 @@
+body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+}
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.reg_wrap{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.reg_form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.top_menu{
+    margin-right: 5px;
+}
+.add_wrap{
+    margin-bottom: 20px;
+}
+.profile_wrap{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.images_wrap{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.item_info_wrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.image{
+    margin-bottom: 40px;
+}
+.edit_wrap{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+.fields_wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tag_wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.gallery_wrap{
+    width: 80%;
+    display: flex;
+}
+.gallery_images_wrap{
+    min-width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.popular_tag{
+    display: flex;
+    margin-bottom: 20px;
+}
+.tag_name{
+    min-width: 50px;
+}
+.gallery_item_info_wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.main_images_wrap{
+    min-width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

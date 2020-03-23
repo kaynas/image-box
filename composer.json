@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Core\\": "core/",
+      "BaseClasses\\": "core/base_classes/",
+      "Controller\\": "mvc/controllers/",
+      "Model\\": "mvc/models/"
+    },
+    "files": ["config/config.php"]
+  }
+}
